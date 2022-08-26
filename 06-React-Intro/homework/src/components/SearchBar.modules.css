@@ -1,0 +1,15 @@
+.container {
+    margin-top: 1vh;
+    margin-right: 1vh;
+    height: 40px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.btn {
+    border: none;
+    background-color: #5fa8d3;
+    color: #cae9ff;
+    height: 100%;
+}
+
